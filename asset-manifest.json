@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/first-cra/static/css/main.b100e6da.chunk.css",
+    "main.css": "/first-cra/static/css/main.5e4e9510.chunk.css",
     "main.js": "/first-cra/static/js/main.a15d9aa7.chunk.js",
     "main.js.map": "/first-cra/static/js/main.a15d9aa7.chunk.js.map",
     "runtime-main.js": "/first-cra/static/js/runtime-main.754abfd1.js",
@@ -8,15 +8,15 @@
     "static/js/2.014af5fd.chunk.js": "/first-cra/static/js/2.014af5fd.chunk.js",
     "static/js/2.014af5fd.chunk.js.map": "/first-cra/static/js/2.014af5fd.chunk.js.map",
     "index.html": "/first-cra/index.html",
-    "precache-manifest.32c179bd6e2fed6bd78fd218a71e86ef.js": "/first-cra/precache-manifest.32c179bd6e2fed6bd78fd218a71e86ef.js",
+    "precache-manifest.dca0acc9596cc1169a1bb2811f866bd5.js": "/first-cra/precache-manifest.dca0acc9596cc1169a1bb2811f866bd5.js",
     "service-worker.js": "/first-cra/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/first-cra/static/css/main.b100e6da.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/first-cra/static/css/main.5e4e9510.chunk.css.map",
     "static/media/logo.svg": "/first-cra/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.754abfd1.js",
     "static/js/2.014af5fd.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
+    "static/css/main.5e4e9510.chunk.css",
     "static/js/main.a15d9aa7.chunk.js"
   ]
 }
