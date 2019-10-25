@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/first-cra/static/css/main.97ff4449.chunk.css",
-    "main.js": "/first-cra/static/js/main.f894a7b7.chunk.js",
-    "main.js.map": "/first-cra/static/js/main.f894a7b7.chunk.js.map",
+    "main.js": "/first-cra/static/js/main.1f8af3cb.chunk.js",
+    "main.js.map": "/first-cra/static/js/main.1f8af3cb.chunk.js.map",
     "runtime-main.js": "/first-cra/static/js/runtime-main.754abfd1.js",
     "runtime-main.js.map": "/first-cra/static/js/runtime-main.754abfd1.js.map",
     "static/js/2.3cae48ed.chunk.js": "/first-cra/static/js/2.3cae48ed.chunk.js",
     "static/js/2.3cae48ed.chunk.js.map": "/first-cra/static/js/2.3cae48ed.chunk.js.map",
     "index.html": "/first-cra/index.html",
-    "precache-manifest.2247cf0099dfbeb594750b40346f92d2.js": "/first-cra/precache-manifest.2247cf0099dfbeb594750b40346f92d2.js",
+    "precache-manifest.3073cd12d5307276ddeb6637980c1d5f.js": "/first-cra/precache-manifest.3073cd12d5307276ddeb6637980c1d5f.js",
     "service-worker.js": "/first-cra/service-worker.js",
     "static/css/main.97ff4449.chunk.css.map": "/first-cra/static/css/main.97ff4449.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.754abfd1.js",
     "static/js/2.3cae48ed.chunk.js",
     "static/css/main.97ff4449.chunk.css",
-    "static/js/main.f894a7b7.chunk.js"
+    "static/js/main.1f8af3cb.chunk.js"
   ]
 }

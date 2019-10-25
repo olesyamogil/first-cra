@@ -1,2 +1,0 @@
-(this["webpackJsonpfirst-cra"]=this["webpackJsonpfirst-cra"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),c=t(2),s=t.n(c);t(8),t(9);var i=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",null,"Alpaca"))};s.a.render(r.a.createElement(i,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.f894a7b7.chunk.js.map
